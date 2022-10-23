@@ -105,8 +105,8 @@ global.watermark = wm
 global.wm2 = 'FarzXD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
+global.titlebot = `IKFAR - BOT `
+global.stickpack = 'IKFAR - BOT'
 global.stickauth = `© Farz IFC`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
@@ -121,7 +121,7 @@ global.lynk = 'https://www.facebook.com/IKFAR'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://www.facebook.com/IKFAR'
 global.sgh = 'https://github.com/IKFAR-IFC' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/JGUaVNc1DFO8rYRNAcXmJU' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
